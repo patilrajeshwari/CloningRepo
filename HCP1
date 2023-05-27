@@ -5,4 +5,7 @@ HCLNOW is a SAAS platform
 testing the git diff behaviour twise
 deleted the previous previous line
 testing the pull operation in local repository
-adding to test the conflict
+
+
+
+test the conflict again by retaining only  ones changes
